@@ -1,0 +1,10 @@
+{
+    "appInsights": {
+        "instrumentationKey": "<dev-guid-here>"
+    },
+    "level1":{
+        "level2":{
+            "key":"level1:level2:key"
+        }
+    }
+}
